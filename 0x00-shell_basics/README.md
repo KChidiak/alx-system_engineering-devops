@@ -11,3 +11,10 @@ This directory contains:
 > 8-firstdelete script deletes betty from /tmp/my_first_directory
 > 9-firstdirdeletion script deletes my_first_directory in /0tmp/
 > 10-back script takes you back to the previous working directory
+>11-lists script lists all files in current parent and /boot directory
+
+>12-file_type script prints the tyope of file names iamafile in /tmp
+
+>13-sympolic_link creates a symbolic link in the workinf directory 0x00shell_basics
+
+>14-copy_html script copies all HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
