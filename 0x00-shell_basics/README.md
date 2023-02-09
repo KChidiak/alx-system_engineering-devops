@@ -4,4 +4,5 @@ This directory contains:
 > 2-bring_me_home script that changes working directory to user's home directory
 > 3-lisfiles script to list files in long format
 > 4-listmorefiles script to list all files including hidden files in long format
-
+> 5-listfilesdigitalonly script to list files in long format with user group IDs displayed numerically and hidden files
+> 6-firstdirectory script to make a directory named my_first_directory in /tmp/ directory
