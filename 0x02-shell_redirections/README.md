@@ -10,3 +10,4 @@ hello world script
 8-cwd_state to Write a script that writes into the file ls_cwd_content
 9-duplicate_last_line to Write a script that duplicates the last line of the file iacta
 10-no_more_js to delete all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+11-directories to  counts the number of directories and sub-directories in the current directory.
