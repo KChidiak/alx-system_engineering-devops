@@ -8,3 +8,4 @@ hello world script
 6-third_line to Write a script that displays the third line of the file iacta
 7-file to Write a shell script that creates a file named exactly... containing the text Best School ending by a new line
 8-cwd_state to Write a script that writes into the file ls_cwd_content
+9-duplicate_last_line to Write a script that duplicates the last line of the file iacta
