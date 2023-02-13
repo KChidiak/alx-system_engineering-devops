@@ -5,3 +5,4 @@ hello world script
 
 
 5-firstlines to display the first 10 lines of /etc/passwd
+6-third_line to Write a script that displays the third line of the file iacta
